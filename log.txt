@@ -1,0 +1,6 @@
+error: Erro ao adicionar time: Nome inválido
+error: Erro ao criar partida: Número inválido de gols
+error: Erro ao criar partida: Time não existe
+error: Erro ao adicionar time: Nome inválido
+error: Erro ao criar partida: Número inválido de gols
+error: Erro ao criar partida: Time não existe
