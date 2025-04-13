@@ -9,8 +9,7 @@ Todos os erros (como nome inválido de time, gols negativos ou times inexistente
 ## 🚀 Como Rodar o Projeto
 
 1. Clone ou baixe o projeto.
-2. No terminal, navegue até a pasta do projeto.
-3. Execute os comandos abaixo:
+2. Execute os comandos abaixo:
 
 ```bash
 npm i
